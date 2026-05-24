@@ -16,7 +16,7 @@ function App() {
       const formData = new FormData()
       formData.append('resume', file)
 
-      const res = await fetch('/api/review', {
+      const res = await fetch(`${import.meta.env.VITE_API_URL}/api/review`, {
         method: 'POST',
         body: formData,
       })
