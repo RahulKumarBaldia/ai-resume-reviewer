@@ -1,5 +1,7 @@
 # 🤖 AI Resume Reviewer
 
+🚀 **Live Demo:** [Click Here](https://ai-resume-reviewer-iota.vercel.app)
+
 An AI-powered full stack web application that analyzes your resume and provides instant ATS compatibility score, strengths, weaknesses, and improvement suggestions.
 
 ![AI Powered](https://img.shields.io/badge/AI-Groq%20LLaMA%203.3-blue)
